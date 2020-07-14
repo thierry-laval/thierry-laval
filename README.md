@@ -1,13 +1,8 @@
 # ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/banniere.jpeg?raw=true)
 
-
-
-
 ### Salut les amis 👋
 
-
-
-
+Je suis un développeur web qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible. Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler @thierry_laval ou à me donner un peu de ♥ sur thierrylaval@gmx.com. 
 <!--
 **thierry-laval/thierry-laval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
