@@ -1,4 +1,4 @@
-# ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/banniere.jpeg?raw=true)
+# ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpeg?raw=true)
 
 ### Salut les amis 👋
 
@@ -8,10 +8,10 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 ou à m'envoyer un peu de ♥ ♥ ♥  sur [Ma boite mail](mailto:thierrylaval@gmx.com).
 
 <p align ="right">
-<a href="https://www.linkedin.com/in/thierry-laval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/images/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/thierry_laval"><img height="24" src="https://github.com/thierry-laval/thierry-laval/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:thierrylaval@gmx.com"><img height="24" src="https://github.com/thierry-laval/thierry-laval/images/blob/master/Apple_Mail-128.png?raw=true"></a>
-<a href="https://www.facebook.com/thierrylaval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/square-facebook-128.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thierry-laval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/thierry_laval"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:thierrylaval@gmx.com"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>
+<a href="https://www.facebook.com/thierrylaval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
