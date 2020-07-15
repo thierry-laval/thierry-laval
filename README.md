@@ -14,9 +14,8 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
   
 <!--<a href="https://www.youtube.com/c/emichel/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/e.micheldev/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
-  
 </p>
-
+<p>
 <details>
  <summary><strong>Ce que j'apprends/travaille en ce moment :</strong></summary>
    - Html5, Css3<br/>
@@ -29,11 +28,11 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
    - Devops
    - VueJs 3-->
 </details>
+</p>
 
 ![Les statistiques de Thierry sur les github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
 
 <p> 
-
 [![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <img src="https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge"/> 
 </p>
