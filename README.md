@@ -2,8 +2,9 @@
 
 ### Salut les amis 👋
 
-Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
-J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible. Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à me donner un peu de ♥ ♥ ♥  sur [mail](mailto:thierrylaval@gmx.com). 
+Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.<br/>
+J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible.<br/>
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à me donner un peu de ♥ ♥ ♥  sur [mail](mailto:thierrylaval@gmx.com). 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/thierry-laval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/square-linkedin-128.png?raw=true"></a>&nbsp;&nbsp;
@@ -19,7 +20,7 @@ J'ai la passion d'apprendre et de partager mes connaissances avec les autres aus
 <details>
  <summary><strong>Ce que j'apprends/travaille en ce moment :</strong></summary>
    - Html5, Css3<br/>
-   - xxxxx, xxxx<br/>
+   - JavaScript pour le web<br/>
    - xxxx, xxxxxx<br/>
    <!--
    - PHP moderne <br/>
