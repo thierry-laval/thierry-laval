@@ -1,4 +1,4 @@
-# ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpeg?raw=true)
+# ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)
 
 ### Salut les amis 👋
 
