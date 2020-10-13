@@ -21,7 +21,8 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur [Ma boite mail](mailto:thierrylaval@g
  <summary><strong>Ce que j'apprends/travaille en ce moment :</strong></summary>
    - Html5, Css3<br/>
    - JavaScript pour le web<br/>
-   - OpenClassroom - Projet 5<br/>
+   - MySQL<br/>
+   - OpenClassroom - Projet 7<br/>
    <!--
    - PHP moderne <br/>
    - Symfony <br/>
