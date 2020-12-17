@@ -17,19 +17,35 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur [Ma boite mail](mailto:thierrylaval@g
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
 <p>
-<details>
- <summary><strong>Ce que j'apprends/travaille en ce moment :</strong></summary>
-   - Html5, Css3<br/>
-   - JavaScript pour le web<br/>
-   - MySQL<br/>
-   - OpenClassroom - Projet 7<br/>
-   <!--
-   - PHP moderne <br/>
-   - Symfony <br/>
-   - LaravelPHP avancé <br/>
-   - Devops
-   - VueJs 3-->
-</details>
+<strong>Apprentissage :</strong>
+    <details>
+      <summary>Formation de Développeur web (9 mois OpenClassrooms)</summary>
+        - Création/intégration d'une maquette<br/>
+        - La ligne de commande<br/>
+        - Git et GitHub<br/>
+        - HTML5 & CSS3, SASS<br/>
+        - JavaScript<br/>
+        - Bootstrap 4<br/>
+        - Node.js<br/>
+        - Express<br/>
+        - MongoDB<br/>
+        - PHP<br/>
+        - L'OSWAP<br/>
+        - API REST<br/>
+        - MySQL<br/>
+        - Vue.js<br/>
+    </details>
+    <details>
+      <summary>Ce que j'apprends/travaille en ce moment :</summary>
+        - Html5, Css3<br/>
+        - JavaScript pour le web<br/>
+        - MySQL<br/>
+        - PHP moderne <br/>
+        - Symfony <br/>
+        - LaravelPHP avancé <br/>
+        - Devops<br/>
+        - VueJs 3
+      </details>
 </p>
 
 ![Les statistiques de Thierry sur les github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
