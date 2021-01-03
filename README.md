@@ -1,6 +1,6 @@
 # ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)
 
-### Salut les amis 👋
+### Salut à tous 👋
 
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.<br/>
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible.<br/>
@@ -40,9 +40,8 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur [Ma boite mail](mailto:thierrylaval@g
         - Html5, Css3<br/>
         - JavaScript pour le web<br/>
         - MySQL<br/>
-        - PHP moderne <br/>
-        - Symfony <br/>
-        - LaravelPHP avancé <br/>
+        - PHP<br/>
+        - Symfony<br/>
         - Devops<br/>
         - VueJs 3
       </details>
