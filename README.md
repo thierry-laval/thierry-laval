@@ -5,7 +5,7 @@
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.<br/>
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible.<br/>
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)<br/>
-ou à m'envoyer un peu de ♥ ♥ ♥  sur [Ma boite mail](mailto:thierrylaval@gmx.com).
+ ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:thierrylaval@gmx.com).
 
 <p align ="right">
 <a href="https://www.linkedin.com/in/thierry-laval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -19,7 +19,7 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur [Ma boite mail](mailto:thierrylaval@g
 <p>
 <strong>Apprentissage :</strong>
     <details>
-      <summary>Formation de Développeur web (9 mois OpenClassrooms)</summary>
+      <summary>📚 Formation de Développeur web (9 mois OpenClassrooms)</summary>
         - Création/intégration d'une maquette<br/>
         - La ligne de commande<br/>
         - Git et GitHub<br/>
@@ -36,7 +36,7 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur [Ma boite mail](mailto:thierrylaval@g
         - Vue.js<br/>
     </details>
     <details>
-      <summary>Ce que j'apprends/travaille en ce moment :</summary>
+      <summary>🌱 Ce que j'apprends/travaille en ce moment :</summary>
         - Html5, Css3<br/>
         - JavaScript pour le web<br/>
         - MySQL<br/>
