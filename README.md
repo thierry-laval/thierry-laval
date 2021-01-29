@@ -17,8 +17,6 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
 
-*******************
-
 <p>
 <strong>Apprentissage :</strong>
     <details>
@@ -93,6 +91,9 @@ https://www.youtube.com/watch?v=bAhEtLMeI1o&feature=youtu.be
 
 *** export HTML = <blockquote>
 > une citation est un paragraphe ouvert par un chevron fermant
+> Citation 1
+
+> Citation 2
 
 *** Export HTML = <p>a paragraph</p>
 Pour afficher un paragraphe, sautez deux ligne et de taper son texte. Un seul saut de ligne correspond à un retour chariot et pas à un changement de paragraphe.
@@ -114,5 +115,7 @@ Title 2
 <h2>Title 2</h2>
 <h3>Title 3</h3>
 <h4>Title 4</h4>
+
+https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/
 
 -->
