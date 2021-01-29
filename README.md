@@ -17,6 +17,8 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
 
+*******************
+
 <p>
 <strong>Apprentissage :</strong>
     <details>
@@ -60,6 +62,8 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
       </details>
       </p>
 
+---
+
 ![Les statistiques de Thierry sur les github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
 
 <p>
@@ -84,6 +88,31 @@ Here are some ideas to get you started:
 
 https://www.youtube.com/watch?v=bAhEtLMeI1o&feature=youtu.be
 
-Aides Markdown
+*** Code Markdown ***
+*********************
+
+*** export HTML = <blockquote>
+> une citation est un paragraphe ouvert par un chevron fermant
+
+*** Export HTML = <p>a paragraph</p>
+Pour afficher un paragraphe, sautez deux ligne et de taper son texte. Un seul saut de ligne correspond à un retour chariot et pas à un changement de paragraphe.
+
+*** Export HTML = <pre><code>code</code></pre>
+Pour afficher un bloc de code, sautez deux lignes comme pour un paragraphe, puis indentez avec 4 espaces ou une tabulation. Le bloc se terminera dès qu’il arrivera sur un ligne non indentée.
+
 Pour faire des crochets [ ] avec un clavier Mac, procédez comme suit : Placez le curseur à l'endroit où vous voulez afficher les crochets. Maintenez la touche Option Alt ⌥ enfoncée. Maintenez la touche Maj ⇧
+
+Title 1
+==
+Title 2
+-
+### Title 3 #
+####  Title 4
+
+*** Export HTML
+<h1>Title 1</h1>
+<h2>Title 2</h2>
+<h3>Title 3</h3>
+<h4>Title 4</h4>
+
 -->
