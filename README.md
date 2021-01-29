@@ -1,9 +1,8 @@
 # ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)
 
+## Salut à tous 👋
 
-### Salut à tous 👋
-
-🔭  Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.<br/>
+Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible.<br/>
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)<br/>
  ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:thierrylaval@gmx.com).
