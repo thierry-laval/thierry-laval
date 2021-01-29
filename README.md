@@ -1,8 +1,9 @@
 # ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)
 
+
 ### Salut à tous 👋
 
-Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.<br/>
+🔭  Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.<br/>
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible.<br/>
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)<br/>
  ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:thierrylaval@gmx.com).
@@ -16,6 +17,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
+
 <p>
 <strong>Apprentissage :</strong>
     <details>
@@ -46,6 +48,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
         - VueJs 3
       </details>
 </p>
+
 
 ![Les statistiques de Thierry sur les github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
 
