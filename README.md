@@ -47,7 +47,18 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
         - VueJs 3
       </details>
 </p>
-
+<p>
+<strong>Mon orientation :</strong>
+<details>
+      <summary>🤔  Les choix qui me semblent les plus cool</summary>
+        - Création de sites et de boutiques<br/>
+        - e-commerce<br/>
+        - Prestashop (gestion et développements)<br/>
+        - Wordpress<br/>
+        - Apprentissages de code<br/>
+        - Spécialisation dans la voie qui me paraîtra la plus sympa !
+      </details>
+      </p>
 
 ![Les statistiques de Thierry sur les github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
 
@@ -58,10 +69,8 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <img src="https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge"/>
 </p>
 
-
 <!-- LES AIDES
 **thierry-laval/thierry-laval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -74,7 +83,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://www.youtube.com/watch?v=bAhEtLMeI1o&feature=youtu.be
-
 
 Aides Markdown
 Pour faire des crochets [ ] avec un clavier Mac, procédez comme suit : Placez le curseur à l'endroit où vous voulez afficher les crochets. Maintenez la touche Option Alt ⌥ enfoncée. Maintenez la touche Maj ⇧
