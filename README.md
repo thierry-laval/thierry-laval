@@ -2,9 +2,9 @@
 
 ## Salut à tous 👋
 
-Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.  
-J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible.  
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)  
+Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
+J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)
  ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:thierrylaval@gmx.com).
 
 <p align ="right">
@@ -66,7 +66,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 <!--[Les statistiques de Thierry sur wakatime](https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg)-->
 
-<img src="https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg" width="500">
+<img src="https://wakatime.com/share/@Tiri/5c9419dc-b711-422d-9fd2-bf44b9e7b400.svg" width="500">
 
 <p>
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
