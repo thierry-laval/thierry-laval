@@ -64,22 +64,12 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ![Les statistiques de Thierry sur github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
 
-![Les statistiques de Thierry sur Wakatime](https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg=300x200)
-
 
 <figure><embed src="https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg"></embed></figure>
 
 
-<!--
-<figure>
-   <pre>
-      <code>
-       <embed src="https://wakatime.com/share/@Tiri/febec462-4426-42f7-a042-a104b269df2d.svg"; width= "70%";></embed>
-      </code>
-   </pre>
-   <figcaption>Description du code source présenté</figcaption>
-</figure>
--->
+
+
 <p>
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
