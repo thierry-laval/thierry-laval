@@ -5,13 +5,15 @@
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)
- ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:thierrylaval@gmx.com).
+ ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact@thierrylaval.dev).
 
 <p align ="right">
 <a href="https://www.linkedin.com/in/thierry-laval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/thierry_laval"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:thierrylaval@gmx.com"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>
 <a href="https://www.facebook.com/thierrylaval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
+
+<!--<a href="https://thierrylaval.dev/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
