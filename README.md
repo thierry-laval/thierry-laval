@@ -64,13 +64,15 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ![Les statistiques de Thierry sur github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
 
+<!--[Les statistiques de Thierry sur wakatime](https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg)-->
 
-![Les statistiques de Thierry sur wakatime](https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg)
-<img src="https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg" width="300" height="200">
+<img src="https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg" width="500">
+
 <p>
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge"/>
 </p>
 
@@ -87,9 +89,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-=300x200
-
-width="200"
 https://www.youtube.com/watch?v=bAhEtLMeI1o&feature=youtu.be
 
 *** Code Markdown ***
