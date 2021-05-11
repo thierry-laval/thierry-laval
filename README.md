@@ -8,11 +8,11 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
  ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact@thierrylaval.dev).
 
 <p align ="right">
- <a href="https://stackoverflow.com/story/thierrylaval/"><img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thierry-laval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/thierry_laval"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:contact@thierrylaval.dev"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>
-<a href="https://www.facebook.com/thierrylaval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://stackoverflow.com/story/thierrylaval/" target="_blank"><img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thierry-laval/" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/thierry_laval" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:contact@thierrylaval.dev" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>
+<a href="https://www.facebook.com/thierrylaval/" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <!--<a href="https://thierrylaval.dev/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
