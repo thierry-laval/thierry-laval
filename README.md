@@ -68,9 +68,22 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [📫 &nbsp;&nbs
 
 <a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 
-![Les statistiques de Thierry sur github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
+<!--Les statistiques d'orignines remplacées pour mettre les images cotes à cotes-->
+<!--
+[![Les statistiques de Thierry sur github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&locale=fr&theme=merko&include_all_commits=true&hide=["prs","issues","contribs"])](https://github.com/thierry-laval)
 
-<!--[Les statistiques de Thierry sur wakatime](https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true)](https://github.com/thierryl-laval)
+-->
+
+<a href="https://github.com/thierry-laval">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&locale=fr&theme=merko&include_all_commits=true" />
+</a>
+<a href="https://github.com/thierry-laval">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true" />
+</a>
+
+<!--[Les statistiques de Thierry sur wakatime](https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg)
+-->
 
 <img src="https://wakatime.com/share/@Tiri/5c9419dc-b711-422d-9fd2-bf44b9e7b400.svg" width="500">
 
