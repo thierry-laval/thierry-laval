@@ -8,7 +8,6 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact@thierrylaval.dev).
 
 <p align ="right">
-<<<<<<< HEAD
 <a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 <a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
 <a target="blank" href="https://gitlab.com/thierry-laval"><img alt="gitlab" img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
@@ -16,14 +15,6 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact
 <a target="blank" href="https://twitter.com/thierry_laval"><img alt="twitter" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a target="blank" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
 <a target="blank" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
-
-=======
-<a target="_blank" href="https://stackoverflow.com/story/thierrylaval"><img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://gitlab.com/thierry-laval"><img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/thierry-laval" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/thierry_laval" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:contact@thierrylaval.dev" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>
-<a href="https://www.facebook.com/thierrylaval" target="_blank"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <!--<a href="https://thierrylaval.dev/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 >>>>>>> 33373a5fad4a1ddc07a622aca8c00f77df032184
