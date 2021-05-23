@@ -84,10 +84,11 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [📫 &nbsp;&nbs
 
 <!--[Les statistiques de Thierry sur wakatime](https://wakatime.com/share/@Tiri/d6c46a37-31f7-4c70-aab6-1de21c52f59d.svg)
 -->
-
+<!--
 <img src="https://wakatime.com/share/@Tiri/5c9419dc-b711-422d-9fd2-bf44b9e7b400.svg" width="500">
+-->
 
-<p>
+[![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
 
 ***
 
@@ -95,10 +96,13 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [📫 &nbsp;&nbs
 
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) &nbsp;&nbsp; ![Open Source Love](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge)<p></p>
 
+<!--
+<p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge"/>
 </p>
+-->
 
 <!-- LES AIDES
 **thierry-laval/thierry-laval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -147,4 +151,17 @@ Title 2
 
 https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/
 
+-->
+
+<!--
+[![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri)](https://github.com/thierry-laval/thierry-laval)
+
+[![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&hide_progress=true)](https://github.com/thierry-laval/thierry-laval)
+
+- Compact layout
+[![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
+
+&layout=compact
+&locale=fr
+&theme=merko
 -->
