@@ -17,7 +17,6 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact
 <a target="blank" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <!--<a href="https://thierrylaval.dev/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
->>>>>>> 33373a5fad4a1ddc07a622aca8c00f77df032184
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
