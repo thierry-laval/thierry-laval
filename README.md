@@ -88,6 +88,14 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [📫 &nbsp;&nbs
 <img src="https://wakatime.com/share/@Tiri/5c9419dc-b711-422d-9fd2-bf44b9e7b400.svg" width="500">
 
 <p>
+
+***
+
+[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;:tea:
+
+Thanks! :heart:
+
+
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
