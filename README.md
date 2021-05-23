@@ -5,15 +5,16 @@
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)
- ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact@thierrylaval.dev).
+ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact@thierrylaval.dev).
 
 <p align ="right">
-<a href="https://www.linkedin.com/in/thierry-laval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/thierry_laval"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:thierrylaval@gmx.com"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>
-<a href="https://www.facebook.com/thierrylaval/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
-
-<!--<a href="https://thierrylaval.dev/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
+<a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
+<a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
+<a target="blank" href="https://gitlab.com/thierry-laval"><img alt="gitlab" img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
+<a target="blank" href="https://www.linkedin.com/in/thierry-laval"><img alt="linkedin" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a target="blank" href="https://twitter.com/thierry_laval"><img alt="twitter" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a target="blank" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
+<a target="blank" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
@@ -22,7 +23,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <p>
 <strong>Apprentissage :</strong>
     <details>
-      <summary>📚 Formation de Développeur web (9 mois OpenClassrooms)</summary>
+      <summary>📚&nbsp;&nbsp;Formation de Développeur web (9 mois OpenClassrooms)</summary>
         - Création/intégration d'une maquette<br/>
         - La ligne de commande<br/>
         - Git et GitHub<br/>
@@ -39,7 +40,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
         - Vue.js<br/>
     </details>
     <details>
-      <summary>🌱 Ce que j'apprends/travaille en ce moment :</summary>
+      <summary>🌱&nbsp;&nbsp;Ce que j'apprends/travaille en ce moment :</summary>
         - Html5, Css3<br/>
         - JavaScript pour le web<br/>
         - MySQL<br/>
@@ -52,7 +53,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <p>
 <strong>Mon orientation :</strong>
 <details>
-      <summary>🤔  Les choix qui me semblent les plus cool</summary>
+      <summary>🤔&nbsp;&nbsp;Les choix qui me semblent les plus cool</summary>
         - Création de sites et de boutiques<br/>
         - e-commerce<br/>
         - Prestashop (gestion et développements)<br/>
