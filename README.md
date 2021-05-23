@@ -76,7 +76,7 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [📫 &nbsp;&nbs
 -->
 
 <a href="https://github.com/thierry-laval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&locale=fr&theme=merko&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&locale=fr&theme=merko&include_all_commits=true&hide=issues" />
 </a>
 <a href="https://github.com/thierry-laval">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true" />
