@@ -1,14 +1,14 @@
 # ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)
 
-## Salut à tous 👋
+<!--## Salut à tous 👋 -->
+## Salut à tous <img src="images/wave.gif" width="50px">
 
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)
-ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact@thierrylaval.dev).
+ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [📫 &nbsp;&nbsp;Ma boite mail](mailto:contact@thierrylaval.dev).
 
 <p align ="right">
-<a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 <a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
 <a target="blank" href="https://gitlab.com/thierry-laval"><img alt="gitlab" img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
 <a target="blank" href="https://www.linkedin.com/in/thierry-laval"><img alt="linkedin" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -65,6 +65,8 @@ ou à m'envoyer un peu de ♥ ♥ ♥  sur  📫  [Ma boite mail](mailto:contact
       </p>
 
 ---
+
+<a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 
 ![Les statistiques de Thierry sur github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&hide=["prs","issues","contribs"])
 
