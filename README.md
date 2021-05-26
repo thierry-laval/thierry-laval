@@ -6,7 +6,7 @@
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)
-ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [�&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
+ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
 
 <p align ="right">
 <a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
