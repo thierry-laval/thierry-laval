@@ -91,8 +91,10 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma 
 [![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
 
 ***
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?token=lxe1uunwHIr7Uv_lfMbxoLxkI1J7_ua-thQ66Bf6troHdxf7Ved_OtyTcuw9dDaCWyJcfwK3p0a_t5Bb&locale.x=FR) - Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp;(avec une petite donation) via&nbsp;&nbsp;
+[![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?token=lxe1uunwHIr7Uv_lfMbxoLxkI1J7_ua-thQ66Bf6troHdxf7Ved_OtyTcuw9dDaCWyJcfwK3p0a_t5Bb&locale.x=FR)&nbsp;&nbsp;Merci! :heart:
 
-[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;:tea:&nbsp;&nbsp;Merci! :heart:
+<!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci! :heart:-->
 
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
