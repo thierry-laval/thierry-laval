@@ -94,7 +94,7 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR) - Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp;(avec une petite donation) via&nbsp;&nbsp;
 [![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)&nbsp;&nbsp;Merci! :heart:
 
-<!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci! :heart:-->
+<!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
 
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
