@@ -21,7 +21,7 @@ J'ai la passion d'apprendre et de partager mes connaissances avec les autres, au
 
 - :heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a>
 - :heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a>
-- :heavy_check_mark: 📚 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a>
+- :heavy_check_mark: 📗 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a>
 - :heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma presentation</a>
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
