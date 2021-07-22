@@ -19,10 +19,10 @@
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
 
-- :heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a>
-- :heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a>
-- :heavy_check_mark: 📗 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a>
-- :heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma presentation</a>
+:heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a><br>
+:heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a><br>
+:heavy_check_mark: 📗 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a><br>
+:heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma présentation</a><br>
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
 
