@@ -3,18 +3,6 @@
 <!--## Salut à tous 👋 -->
 ## Salut à tous <img src="images/wave.gif" width="50px">
 
-Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
-J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
-
-- 🚨 Mon blog [Le blog d'un dév](https://blog.thierrylaval.dev/){:target="_blank"}
-- 🌱 Mon site <a href="https://thierrylaval.dev/" target="blank">Développeur web</a>
-- <a href="example.com" target="_blank">New Tab</a>
-- 🌱 Mon site [Développeur web](https://thierrylaval.dev/)
-- 🚀 Mon portfolio [Portfolio](https://portfolio.thierrylaval.dev/)
-- 🚀 Ma présentation [Presentation](https://presentation.thierrylaval.dev/)
-
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
-
 <p align ="right">
 <a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
 <a target="blank" href="https://gitlab.com/thierry-laval"><img alt="gitlab" img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
@@ -27,6 +15,16 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
+
+Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
+J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
+
+- :heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a>
+- :heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a>
+- :heavy_check_mark: 📚 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a>
+- :heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma presentation</a>
+
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
 
 <p>
 <strong>Apprentissage :</strong>
