@@ -7,7 +7,7 @@ Je suis un développeur web qui cherche à résoudre les problèmes du monde ré
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
 
 - 🚨 Mon blog [Le blog d'un dév](https://blog.thierrylaval.dev/){:target="_blank"}
-- 🌱 Mon site <a href="https://thierrylaval.dev/" target="_blank">Développeur web</a>
+- 🌱 Mon site <a href="https://thierrylaval.dev/" target="blank">Développeur web</a>
 - 🌱 Mon site [Développeur web](https://thierrylaval.dev/)
 - 🚀 Mon portfolio [Portfolio](https://portfolio.thierrylaval.dev/)
 - 🚀 Ma présentation [Presentation](https://presentation.thierrylaval.dev/)
