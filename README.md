@@ -180,3 +180,5 @@ https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdo
 ***
 
 [![Blog](https://img.shields.io/badge/Visitez-mon%20blog-blue)](https://blog.thierrylaval.dev)
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
