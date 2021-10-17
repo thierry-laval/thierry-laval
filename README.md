@@ -71,8 +71,9 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ---
 
+<a target="blank" href="https://blog.thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Visitez-mon%20blog-blue"/></a>&nbsp;&nbsp;
+<a target="blank" href="https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Payez--moi-un%20caf%C3%A9-white"/></a>&nbsp;&nbsp;
 <a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
-
 <!--Les statistiques d'origines remplacées pour mettre les images cotes à cotes-->
 <!--
 [![Les statistiques de Thierry sur github](https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&locale=fr&theme=merko&include_all_commits=true&hide=["prs","issues","contribs"])](https://github.com/thierry-laval)
