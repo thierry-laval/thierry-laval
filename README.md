@@ -96,8 +96,10 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 [![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
 
 ***
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR) - Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp;(avec une petite donation) via&nbsp;&nbsp;
-[![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
+<br>Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp;(avec une petite donation) via&nbsp;&nbsp;
+[![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
+<br>Merci&nbsp;&nbsp;! :heart:
 
 <!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
 
