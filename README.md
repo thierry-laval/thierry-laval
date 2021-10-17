@@ -107,7 +107,8 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-green)](https://github.com/ellerbrock/open-source-badges/) &nbsp;&nbsp; ![Open Source Love](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/thierry-laval","user_id":46448224)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge)
 
 
-<a target="blank" href="https://blog.thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-green"/></a>&nbsp;&nbsp;
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge&left_color=green&right_color=red)
