@@ -107,4 +107,4 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) &nbsp;&nbsp; ![Open Source Love](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge)<p></p>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) &nbsp;&nbsp; ![Open Source Love](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge)
