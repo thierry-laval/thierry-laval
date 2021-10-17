@@ -1,12 +1,7 @@
-# ![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)
+# [![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)](https://thierrylaval.dev)
 
 <!--## Salut à tous 👋 -->
 ## Salut à tous <img src="images/wave.gif" width="50px">
-
-Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
-J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/)
-ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
 
 <p align ="right">
 <a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
@@ -20,6 +15,16 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma 
 <!--<a href="https://www.youtube.com/c/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;-->
 <!--<a href="https://www.instagram.com/mettre l'adresse/"><img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
+
+Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
+J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
+
+:heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a><br>
+:heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a><br>
+:heavy_check_mark: 📗 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a><br>
+:heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma présentation</a><br>
+
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma boite mail 📫 ](mailto:contact@thierrylaval.dev).
 
 <p>
 <strong>Apprentissage :</strong>
@@ -91,8 +96,12 @@ ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur [&nbsp;&nbsp;Ma 
 [![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
 
 ***
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
+<br>Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp;(avec une petite donation) via&nbsp;&nbsp;
+[![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
+<br>Merci&nbsp;&nbsp;! :heart:
 
-[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;:tea:&nbsp;&nbsp;Merci! :heart:
+<!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
 
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
