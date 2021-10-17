@@ -176,3 +176,9 @@ https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdo
 &locale=fr
 &theme=merko
 -->
+
+***
+
+[![paypal](https://img.shields.io/badge/Visitez-mon%20blog-blue)](https://blog.thierrylaval.dev)
+
+<a target="blank" href="https://blog.thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Visitez-mon%20blog-blue"/></a>&nbsp;&nbsp;
