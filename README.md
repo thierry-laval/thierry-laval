@@ -29,7 +29,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <p>
 <strong>Apprentissage :</strong>
     <details>
-      <summary>📚&nbsp;&nbsp;Formation de Développeur web (9 mois OpenClassrooms)</summary>
+      <summary>📚&nbsp;&nbsp;Formation de Développeur web</summary>
         - Création/intégration d'une maquette<br/>
         - La ligne de commande<br/>
         - Git et GitHub<br/>
