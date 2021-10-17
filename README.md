@@ -71,9 +71,9 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ---
 
+<a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 <a target="blank" href="https://blog.thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Visitez-mon%20blog-blue"/></a>&nbsp;&nbsp;
 <a target="blank" href="https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Payez--moi-un%20caf%C3%A9-white"/></a>&nbsp;&nbsp;
-<a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 
 <!--Les statistiques d'origines remplacées pour mettre les images cotes à cotes-->
 <!--
@@ -82,9 +82,8 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true)](https://github.com/thierryl-laval)
 -->
 <a href="https://github.com/thierry-laval">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true&langs_count=8" />
 </a>
-
 <a href="https://github.com/thierry-laval">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&locale=fr&theme=merko&include_all_commits=true&hide=issues" />
 </a>
@@ -97,18 +96,27 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 [![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
 
-***
+---
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
 <br>Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp;(avec une petite donation) via&nbsp;&nbsp;
 [![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
-<br>Merci&nbsp;&nbsp;! :heart:
+<br>Merci&nbsp;&nbsp;! :heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
 <!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
 
 <!--[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)-->
 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/thierry-laval","user_id":46448224)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge)
+---
 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge&right_color=blue&left_text=Nombre-de-visiteurs)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge&left_color=green&right_color=red)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
+
+###  Développement  par
+
+Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
+Entreprise: [WebDesign xXx France](https://github.com/xXx-France)
