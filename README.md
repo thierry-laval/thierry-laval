@@ -115,9 +115,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
 Entreprise: [WebDesign xXx France](https://github.com/xXx-France)
 
-Vous pouvez m'aider pour continuer à travailler le moins cher possible !
-
-Un petit don sur mon compte&nbsp;&nbsp;
+Vous pouvez m'aider pour continuer à travailler le moins cher possible avec un petit don sur mon compte&nbsp;&nbsp;
 [![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)&nbsp;&nbsp;:heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/)
