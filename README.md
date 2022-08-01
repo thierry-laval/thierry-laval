@@ -98,10 +98,10 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ---
 
-<br>
 Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3E07MS)
+
 [![ScreenShot](images/kofi.png)](https://ko-fi.com/thierrylaval)
 
 <!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
