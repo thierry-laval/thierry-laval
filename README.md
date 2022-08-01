@@ -73,7 +73,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 <a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 <a target="blank" href="https://blog.thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Visitez-mon%20blog-blue"/></a>&nbsp;&nbsp;
-<a target="blank" href="https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Payez--moi-un%20caf%C3%A9-white"/></a>&nbsp;&nbsp;
+<a target="blank" href="https://ko-fi.com/W7W3E07MS"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Payez--moi-un%20caf%C3%A9-white"/></a>&nbsp;&nbsp;
 
 <!--Les statistiques d'origines remplacées pour mettre les images cotes à cotes-->
 <!--
@@ -98,10 +98,9 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ---
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
-<br>Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp;(avec une petite donation) via&nbsp;&nbsp;
-[![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
-<br>Merci&nbsp;&nbsp;! :heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
+<br>Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via&nbsp;&nbsp;
+
+<iframe id='kofiframe' src='https://ko-fi.com/thierrylaval/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='thierrylaval'></iframe>
 
 <!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
 
@@ -120,5 +119,9 @@ Entreprise: [WebDesign xXx France](https://github.com/xXx-France)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge&right_color=blue&left_text=Nombre-de-visiteurs)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
+<br>
+Vous pouvez m'aider pour continuer à travailler le moins cher possible&nbsp;&nbsp;! 
+[![paypal](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.com/donate/?business=M7PKF2S45RUBJ&no_recurring=0&item_name=Rendons-nous+la+vie+plus+belle&currency_code=EUR)
+:heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
 **[⬆ Retour en haut](#)** <br>
