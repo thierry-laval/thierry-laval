@@ -100,9 +100,9 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 <br>
 Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3E07MS)
 
-markdown">[![ScreenShot](images/kofi.png)](https://ko-fi.com/thierrylaval)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3E07MS)
+[![ScreenShot](images/kofi.png)](https://ko-fi.com/thierrylaval)
 
 <!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
 
@@ -126,4 +126,5 @@ Vous pouvez m'aider pour continuer à travailler le moins cher possible avec un 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
 
-**[⬆ Retour en haut](#)** <br>
+**[⬆ Retour en haut](#)**
+<br>
