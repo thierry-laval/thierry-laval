@@ -123,3 +123,6 @@ Entreprise: [WebDesign xXx France](https://github.com/xXx-France)
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/csrh.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 **[⬆ Retour en haut](#)** <br>
+
+<div class="github-card" data-user="lepture" data-repo="github-cards"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
