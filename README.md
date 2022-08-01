@@ -98,12 +98,11 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ---
 
-<br>Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via&nbsp;&nbsp;
-<p>
-<iframe id='kofiframe' src='https://ko-fi.com/thierrylaval/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='thierrylaval'></iframe></p>
+<br>
+Vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3E07MS)
 
 markdown">[![ScreenShot](images/kofi.png)](https://ko-fi.com/thierrylaval)
-
 
 <!--[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR) - Vous pouvez me payer un café (avec une petite donation) via PayPal&nbsp;&nbsp;☕️&nbsp;&nbsp;Merci&nbsp;&nbsp;! :heart:-->
 
