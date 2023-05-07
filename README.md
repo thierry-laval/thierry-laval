@@ -11,7 +11,7 @@
 <a target="blank" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
 <a target="blank" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-Développeur web
+### Développeur web
 
 Je suis un artisan du web, à la recherche de solutions pour améliorer le monde qui nous entoure. Mon insatiable curiosité m'incite à explorer continuellement de nouveaux horizons et à repousser les limites de mes connaissances. Passionné par le partage de mes découvertes, j'essaie de transmettre mes compétences au plus grand nombre, en toute transparence. Et rien ne me procure plus de satisfaction que de voir les gens que j'ai aidés réussir.
 
