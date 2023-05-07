@@ -90,6 +90,7 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![paypal.me/lavalthierr
 ### Développement par
 
 Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
+
 Entreprise: [WebDesign xXx France](https://github.com/xXx-France)
 
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
