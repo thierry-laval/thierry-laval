@@ -14,15 +14,14 @@
 Je suis un développeur web qui cherche à résoudre les problèmes du monde réel.
 J'ai la passion d'apprendre et de partager mes connaissances avec les autres, aussi publiquement que possible.
 
-Vous pouvez me faire une petite donation&nbsp;&nbsp;:heart:&nbsp;&nbsp;Merci&nbsp;&nbsp;! [![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR)
-
-
 :heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a><br>
 :heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a><br>
 :heavy_check_mark: 📗 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a><br>
 :heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma présentation</a><br>
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev).
+
+Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR)&nbsp;&nbsp;:heart:&nbsp;&nbsp;Merci&nbsp;&nbsp;!
 
 <p>
 <strong>Apprentissage :</strong>
@@ -93,7 +92,9 @@ Entreprise: [WebDesign xXx France](https://github.com/xXx-France)
 
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3E07MS)
+
 :heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/)
