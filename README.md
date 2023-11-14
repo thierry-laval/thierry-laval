@@ -1,7 +1,10 @@
 # [![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)](https://thierrylaval.dev)
 
 <!--## Salut à tous 👋 -->
-## Salut à tous  <img src="images/wave.gif" width="50px">  ![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=10000&label=Vues+du+PROFILE)
+ ![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=10000&label=Vues+du+PROFILE)
+
+## Salut à tous<img src="images/wave.gif" width="50px">
+
 <p align ="right">
 <a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
 <a target="blank" href="https://gitlab.com/thierry-laval"><img alt="gitlab" img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
