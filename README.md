@@ -2,7 +2,7 @@
 
 <!--## Salut à tous 👋 -->
 ## Salut à tous <img src="images/wave.gif" width="50px">
-![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=10000)
+![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=10000&label=Vues+du+PROFILE)
 
 
 <p align ="right">
