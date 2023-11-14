@@ -107,9 +107,6 @@ vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge&right_color=blue&left_text=Nombre-de-visiteurs)
-
 ![](https://hit.yhype.me/github/profile?user_id=46448224)
 
 **[⬆ Retour en haut](#)**
