@@ -15,14 +15,16 @@
 
 ### Développeur web
 
-Je suis un artisan du web, à la recherche de solutions pour améliorer le monde qui nous entoure. Mon insatiable curiosité m'incite à explorer continuellement de nouveaux horizons et à repousser les limites de mes connaissances. Passionné par le partage de mes découvertes, j'essaie de transmettre mes compétences au plus grand nombre, en toute transparence. Et rien ne me procure plus de satisfaction que de voir les gens que j'ai aidés réussir.
+Je suis un artisan du web en quête perpétuelle de solutions pour embellir notre monde numérique. Ma curiosité insatiable me pousse à explorer sans cesse de nouveaux horizons, repoussant les limites de mes connaissances. Animé par la passion de partager mes trouvailles, je m'efforce de dispenser mes compétences avec une totale transparence. Rien ne m'apporte plus de satisfaction que de voir ceux que j'ai soutenus triompher. 🚀💡
+
+⚡ Fun fact **Je suis vraiment sympa**
 
 :heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a><br>
 :heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a><br>
 :heavy_check_mark: 📗 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a><br>
 :heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma présentation</a><br>
 
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev). ⚡ Fun fact **Je suis vraiment sympa**
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev).
 
 Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR)&nbsp;&nbsp;:heart:&nbsp;&nbsp;Merci&nbsp;&nbsp;!
 
