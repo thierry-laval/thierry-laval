@@ -2,8 +2,8 @@
 
 <!--## Salut à tous 👋 -->
 ## Salut à tous <img src="images/wave.gif" width="50px">
-![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=10000&label=Vues+du+PROFILE)
 
+![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=10000&label=Vues+du+PROFILE)
 
 <p align ="right">
 <a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
