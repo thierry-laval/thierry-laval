@@ -90,7 +90,8 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![paypal.me/lavalthierr
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=thierry-laval&theme=transparent&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thierry-laval&theme=github-green-purple&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
 ### Développement par
 
 Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
