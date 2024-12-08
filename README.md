@@ -103,6 +103,11 @@ vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
 [![PayPal]([https://ko-fi.com/img/githubbutton_sm.svg](https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg))]([[https://ko-fi.com/W7W3E07MS](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR))](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR))
 
+<a href="https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="PayPal" style="height: 50px;">
+</a>
+
+
 :heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/)
