@@ -101,7 +101,8 @@ Entreprise: [Freelance France](https://github.com/xXx-France)
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
-[![PayPal](https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
+
 
 <a href="https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR" target="_blank" rel="noopener noreferrer">
     <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="PayPal" style="height: 50px;">
