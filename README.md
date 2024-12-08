@@ -25,26 +25,6 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
 
-### Apprentissage 📚
-<details>
-  <summary>Formation de Développeur Web</summary>
-  - Création sous Prestashop et WordPress  
-  - Intégration de maquettes  
-  - Git, GitHub, et la ligne de commande  
-  - HTML5, CSS3 (SASS), JavaScript  
-  - Bootstrap, Node.js, Express  
-  - MongoDB, MySQL, PHP  
-  - Vue.js, API REST  
-  - OWASP pour la sécurité web
-</details>
-
-<details>
-  <summary>🌱 Actuellement en apprentissage :</summary>
-  - Symfony et Vue.js 3  
-  - DevOps  
-  - Optimisation pour le e-commerce
-</details>
-
 <p>
 <strong>Apprentissage :</strong>
     <details>
