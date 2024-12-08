@@ -17,13 +17,33 @@
 
 Je suis un artisan du web en quête perpétuelle de solutions pour embellir notre monde numérique. Ma curiosité insatiable me pousse à explorer sans cesse de nouveaux horizons, repoussant les limites de mes connaissances. Animé par la passion de partager mes trouvailles, je m'efforce de dispenser mes compétences avec une totale transparence. Rien ne m'apporte plus de satisfaction que de voir ceux que j'ai soutenus triompher. 🚀💡
 
-⚡ Fun fact **Je suis vraiment sympa**
+⚡ Fun fact : **Je suis vraiment sympa !**
 
 :heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site web professionnel</a><br>
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev).
 
 Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
+
+### Apprentissage 📚
+<details>
+  <summary>Formation de Développeur Web</summary>
+  - Création sous Prestashop et WordPress  
+  - Intégration de maquettes  
+  - Git, GitHub, et la ligne de commande  
+  - HTML5, CSS3 (SASS), JavaScript  
+  - Bootstrap, Node.js, Express  
+  - MongoDB, MySQL, PHP  
+  - Vue.js, API REST  
+  - OWASP pour la sécurité web
+</details>
+
+<details>
+  <summary>🌱 Actuellement en apprentissage :</summary>
+  - Symfony et Vue.js 3  
+  - DevOps  
+  - Optimisation pour le e-commerce
+</details>
 
 <p>
 <strong>Apprentissage :</strong>
