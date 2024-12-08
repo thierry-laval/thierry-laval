@@ -101,7 +101,7 @@ Entreprise: [Freelance France](https://github.com/xXx-France)
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3E07MS)
+[![PayPal]([https://ko-fi.com/img/githubbutton_sm.svg](https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg))]([[https://ko-fi.com/W7W3E07MS](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR))](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR))
 
 :heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
