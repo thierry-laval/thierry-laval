@@ -19,19 +19,18 @@ Je suis un artisan du web en quête perpétuelle de solutions pour embellir notr
 
 ⚡ Fun fact **Je suis vraiment sympa**
 
-:heavy_check_mark: 📝 <a href="https://blog.thierrylaval.dev/" target="blank">Mon blog</a><br>
-:heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site</a><br>
-:heavy_check_mark: 📗 <a href="https://portfolio.thierrylaval.dev/" target="blank">Mon portfolio</a><br>
-:heavy_check_mark: 🔖 <a href="https://presentation.thierrylaval.dev/" target="blank">Ma présentation</a><br>
+:heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site web professionnel</a><br>
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev).
 
-Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![paypal.me/lavalthierry](https://ionicabizau.github.io/badges/paypal.svg)](https://paypal.me/lavalthierry?locale.x=fr_FR)&nbsp;&nbsp;:heart:&nbsp;&nbsp;Merci&nbsp;&nbsp;!
+Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
 
 <p>
 <strong>Apprentissage :</strong>
     <details>
       <summary>📚&nbsp;&nbsp;Formation de Développeur web</summary>
+        - Création sous Prestashop<br/>
+        - Création sous WordPress<br/>
         - Création/intégration d'une maquette<br/>
         - La ligne de commande<br/>
         - Git et GitHub<br/>
@@ -75,8 +74,7 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![paypal.me/lavalthierr
 ---
 
 <a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
-<a target="blank" href="https://blog.thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Visitez-mon%20blog-blue"/></a>&nbsp;&nbsp;
-<a target="blank" href="https://ko-fi.com/W7W3E07MS"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Payez--moi-un%20caf%C3%A9-white"/></a>&nbsp;&nbsp;
+<a target="blank" href="https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Payez--moi-un%20caf%C3%A9-white"/></a>&nbsp;&nbsp;
 
 <a href="https://github.com/thierry-laval">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true&langs_count=8" />
