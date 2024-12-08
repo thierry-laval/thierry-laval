@@ -101,6 +101,8 @@ Entreprise: [Freelance France](https://github.com/xXx-France)
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
+[![PayPal](https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
+
 <a href="https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR" target="_blank" rel="noopener noreferrer">
     <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="PayPal" style="height: 50px;">
 </a>
@@ -109,7 +111,6 @@ vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge&right_color=blue&left_text=Nombre-de-visiteurs)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval&left_color=green&right_color=red)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
 
