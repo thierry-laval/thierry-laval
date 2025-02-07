@@ -112,7 +112,7 @@ vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
 
-I would be honored if you would consider nominating me for the GitHub Star program.
+Ce serait un immense honneur d’être nommé pour le programme GitHub Star – si mon travail vous inspire, n’hésitez pas à me soutenir ! 🚀✨
 
 <a href='https://stars.github.com/nominate/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Nominate  @thierrylaval-100000?style=flat&logo=github&logoColor=000&labelColor=fff&color=E03A3A'/></a>
 
