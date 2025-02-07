@@ -71,6 +71,8 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
   </details>
 </p>
 
+<p>
+<strong>Tous mes outils :</strong>
 <details>
 <summary>🔋 Technos utilisées</summary>
 
@@ -156,6 +158,9 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)](#)
 
 </details>
+</p>
+
+####
 
 ---
 
