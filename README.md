@@ -71,9 +71,9 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
   </details>
 </p>
 
-### 🔋Tech Stack
+### 🔋 Technos utilisées
 
-#### 🧑‍💻 Programming/scripting/markup Languages
+#### 🧑‍💻 Langages de programmation, de script et de balisage
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -95,7 +95,7 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
 
-#### ⛈️ Databases
+#### ⛈️ Bases de données
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)](#)
@@ -107,7 +107,7 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 [![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white&style=flat)](#)
 
-#### ☁️ Web servers & Cloud Systems
+#### ☁️ Serveurs web et systèmes cloud
 
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white&style=flat)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
@@ -120,22 +120,22 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)](#)
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-4285F4?logo=adobe%20illustrator&logoColor=white)](#)
 
-#### 📦 Package Managers
+#### 📦 Gestionnaires de paquets
 
 [![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)
 
-#### 🔖 Version Control
+#### 🔖 Gestion de version
 
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-#### 💻 IDE/Code Editors
+#### 💻 IDE/Éditeurs de code
 
 [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-#### 🖥️ Operating Systems
+#### 🖥️ Systèmes d'exploitation
 
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
@@ -143,7 +143,7 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![MacOS](https://custom-icon-badges.demolab.com/badge/MacOS-0078D6?logo=Macos&logoColor=white)](#)
 
-#### 🤝 Collaboration Tools
+#### 🤝 Outils de collaboration
 
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white&style=flat)](#)
