@@ -26,50 +26,50 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
 
 <p>
-<strong>Apprentissage :</strong>
-    <details>
-      <summary>📚&nbsp;&nbsp;Formation de Développeur web</summary>
-        - Création sous Prestashop<br/>
-        - Création sous WordPress<br/>
-        - Création/intégration d'une maquette<br/>
-        - La ligne de commande<br/>
-        - Git et GitHub<br/>
-        - HTML5 & CSS3, SASS<br/>
-        - JavaScript<br/>
-        - Bootstrap 4<br/>
-        - Node.js<br/>
-        - Express<br/>
-        - MongoDB<br/>
-        - PHP<br/>
-        - L'OSWAP<br/>
-        - API REST<br/>
-        - MySQL<br/>
-        - Vue.js<br/>
-    </details>
-    <details>
-      <summary>🌱&nbsp;&nbsp;Ce que j'apprends/travaille en ce moment :</summary>
-        - Html5, Css3<br/>
-        - JavaScript pour le web<br/>
-        - MySQL<br/>
-        - PHP<br/>
-        - Symfony<br/>
-        - Devops<br/>
-        - VueJs 3
-      </details>
+  <strong>Apprentissage :</strong>
+  <details>
+    <summary>📚&nbsp;&nbsp;Formation de Développeur web</summary>
+      - Création sous Prestashop<br/>
+      - Création sous WordPress<br/>
+      - Création/intégration d'une maquette<br/>
+      - La ligne de commande<br/>
+      - Git et GitHub<br/>
+      - HTML5 & CSS3, SASS<br/>
+      - JavaScript<br/>
+      - Bootstrap 4<br/>
+      - Node.js<br/>
+      - Express<br/>
+      - MongoDB<br/>
+      - PHP<br/>
+      - L'OSWAP<br/>
+      - API REST<br/>
+      - MySQL<br/>
+      - Vue.js<br/>
+  </details>
+  <details>
+    <summary>🌱&nbsp;&nbsp;Ce que j'apprends/travaille en ce moment :</summary>
+      - Html5, Css3<br/>
+      - JavaScript pour le web<br/>
+      - MySQL<br/>
+      - PHP<br/>
+      - Symfony<br/>
+      - Devops<br/>
+      - VueJs 3
+  </details>
 </p>
 <p>
-<strong>Mon orientation :</strong>
-<details>
-      <summary>🤔&nbsp;&nbsp;Les choix qui me semblent les plus cool</summary>
-        - Création de sites et de boutiques<br/>
-        - e-commerce<br/>
-        - Prestashop (gestion et développements)<br/>
-        - Wordpress<br/>
-        - Apprentissages de code<br/>
-        - Spécialisation dans la voie qui me paraîtra la plus sympa !<br/>
-        - Aider les gens.
-      </details>
-      </p>
+  <strong>Mon orientation :</strong>
+  <details>
+    <summary>🤔&nbsp;&nbsp;Les choix qui me semblent les plus cool</summary>
+      - Création de sites et de boutiques<br/>
+      - e-commerce<br/>
+      - Prestashop (gestion et développements)<br/>
+      - Wordpress<br/>
+      - Apprentissages de code<br/>
+      - Spécialisation dans la voie qui me paraîtra la plus sympa !<br/>
+      - Aider les gens.<br/>
+  </details>
+</p>
 
 ---
 
@@ -89,6 +89,10 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=thierry-laval&theme=github-green-purple&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+### 🏆 Trophées GitHub
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thierry-laval&theme=onedark&no-bg=true&no-frame=true&column=-1)](#)
 
 ### Développement par
 
