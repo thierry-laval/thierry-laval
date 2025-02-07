@@ -1,7 +1,7 @@
 # [![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)](https://thierrylaval.dev)
 
 <!--## Salut à tous 👋 -->
- ![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=10000&label=Vues+du+PROFILE)
+ ![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=15000&label=Vues+du+PROFILE)
 
 ## Salut à tous<img src="images/wave.gif" width="50px">
 
@@ -112,6 +112,6 @@ vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
 
-![](https://hit.yhype.me/github/profile?user_id=46448224)
+![Profile Hit Counter](https://hit.yhype.me/github/profile?user_id=46448224)
 
 **[⬆ Retour en haut](#)**
