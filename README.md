@@ -114,7 +114,7 @@ vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
 I would be honored if you would consider nominating me for the GitHub Star program.
 
-<a href='https://stars.github.com/nominate/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Nominate  @Mthierry-laval-100000?style=flat&logo=github&logoColor=000&labelColor=fff&color=E03A3A'/></a>
+<a href='https://stars.github.com/nominate/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Nominate  @thierrylaval-100000?style=flat&logo=github&logoColor=000&labelColor=fff&color=E03A3A'/></a>
 
 ![Profile Hit Counter](https://hit.yhype.me/github/profile?user_id=46448224)
 
