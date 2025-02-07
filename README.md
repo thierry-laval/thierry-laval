@@ -108,11 +108,11 @@ vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 :heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-color=green&right_color=red)](https://github.com/thierry-laval/)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thierry-laval.visitor-badge&right_color=blue&left_text=Nombre-de-visiteurs)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.png?v=103 )](https://opensource.org/licenses/GPL-3.0/)
 
-Ce serait un immense honneur d’être nommé pour le programme GitHub Star – si mon travail vous inspire, n’hésitez pas à me soutenir ! 🚀✨
+Ce serait un immense honneur d’être nommé pour le programme GitHub Star 
+Si mon travail vous inspire, n’hésitez pas à me soutenir ! 🚀✨
 
 <a href='https://stars.github.com/nominate/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Nominate  @thierrylaval-100000?style=flat&logo=github&logoColor=000&labelColor=fff&color=E03A3A'/></a>
 
