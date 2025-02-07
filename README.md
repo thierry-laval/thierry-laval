@@ -116,11 +116,6 @@ Ce serait un immense honneur d’être nommé pour le programme GitHub Star – 
 
 <a href='https://stars.github.com/nominate/' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/Nominate  @thierrylaval-100000?style=flat&logo=github&logoColor=000&labelColor=fff&color=E03A3A'/></a>
 
-<a href="https://stars.github.com/nominate/" target="_blank" rel="noopener noreferrer">
-  <img alt="GitHub" src="https://img.shields.io/badge/Nominate @thierrylaval-100000?style=flat&logo=github&logoColor=000&labelColor=fff&color=E03A3A"/>
-</a>
-
-
 ![Profile Hit Counter](https://hit.yhype.me/github/profile?user_id=46448224)
 
 **[⬆ Retour en haut](#)**
