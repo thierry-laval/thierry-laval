@@ -71,6 +71,8 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
   </details>
 </p>
 
+<details>
+<summary>### 🔋 Technos utilisées</summary>
 ### 🔋 Technos utilisées
 
 #### 🧑‍💻 Langages de programmation, de script et de balisage
@@ -154,6 +156,8 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 [![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=fff&style=flat)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)](#)
 
+####
+</details>
 ---
 
 <a target="blank" href="https://thierrylaval.dev"><img alt="Portfolio" img height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
