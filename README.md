@@ -122,8 +122,8 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 #### 🎨 Design
 
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)](#)
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-4285F4?logo=adobe%20illustrator&logoColor=white)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)](#)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)](#)
 
 #### 📦 Gestionnaires de paquets
 
