@@ -3,8 +3,6 @@
 <!--## Salut à tous 👋 -->
  ![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=15000&label=Vues+du+PROFILE)
 
- ![Web Developer](https://img.shields.io/badge/Web%20Developer-000?style=for-the-badge&logo=html5&logoColor=fff)
-
 ## Salut à tous<img src="images/wave.gif" width="50px">
 
 <p align ="right">
@@ -15,13 +13,13 @@
 <a target="blank" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
 <a target="blank" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-### Développeur web
+[![Freelancer](https://img.shields.io/badge/Freelance-Développeur%20Web-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://thierrylaval.dev)
 
 Je suis un artisan du web en quête perpétuelle de solutions pour embellir notre monde numérique. Ma curiosité insatiable me pousse à explorer sans cesse de nouveaux horizons, repoussant les limites de mes connaissances. Animé par la passion de partager mes trouvailles, je m'efforce de dispenser mes compétences avec une totale transparence. Rien ne m'apporte plus de satisfaction que de voir ceux que j'ai soutenus triompher. 🚀💡
 
 ⚡ Fun fact : **Je suis vraiment sympa !**
 
-:heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site web professionnel</a><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-thierrylaval-4F46E5?style=for-the-badge&logo=link&logoColor=white)](https://thierrylaval.dev) 🇫🇷
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev).
 
