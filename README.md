@@ -3,6 +3,8 @@
 <!--## Salut à tous 👋 -->
  ![](https://komarev.com/ghpvc/?username=thierry-laval&style=for-the-badge&base=15000&label=Vues+du+PROFILE)
 
+ ![Web Developer](https://img.shields.io/badge/Web%20Developer-000?style=for-the-badge&logo=html5&logoColor=fff)
+
 ## Salut à tous<img src="images/wave.gif" width="50px">
 
 <p align ="right">
