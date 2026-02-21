@@ -23,7 +23,9 @@ Je suis un artisan du web en quête perpétuelle de solutions pour embellir notr
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev).
 
-Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
+### Vous pouvez me faire une petite donation
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR) 
 
 <p>
   <strong>Apprentissage :</strong>
