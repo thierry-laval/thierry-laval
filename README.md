@@ -13,7 +13,7 @@
 <a target="_blank" rel="noopener noreferrer" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-[![Freelancer](https://img.shields.io/badge/Freelance-Développeur%20Web-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://thierrylaval.dev) [![Disponibilité](https://img.shields.io/badge/Disponible-pour%20missions-brightgreen?style=for-the-badge)](https://thierrylaval.dev)
+[![Freelancer](https://img.shields.io/badge/Freelance-Développeur%20Web-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://thierrylaval.dev) [![Disponibilité](https://img.shields.io/badge/Disponible-pour%20missions-brightgreen?style=for-the-badge)](https://thierrylaval.dev) 
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=false&vCenter=false&width=500&lines=Développeur+Web;Expert+PrestaShop;Expert+WordPress;Optimisation+SEO;Freelance+France" />
@@ -200,7 +200,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
 
-Entreprise: [Freelance France](https://github.com/xXx-France)
+Entreprise: [![Basé en France – Freelance](https://img.shields.io/badge/Basé_en_France-Freelance-blue?style=flat-square)](https://github.com/xXx-France)
 
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
