@@ -13,7 +13,11 @@
 <a target="_blank" rel="noopener noreferrer" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
 <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-[![Freelancer](https://img.shields.io/badge/Freelance-Développeur%20Web-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://thierrylaval.dev)
+[![Freelancer](https://img.shields.io/badge/Freelance-Développeur%20Web-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://thierrylaval.dev) [![Disponibilité](https://img.shields.io/badge/Disponible-pour%20missions-brightgreen?style=for-the-badge)](https://thierrylaval.dev)
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=false&vCenter=false&width=500&lines=Développeur+Web;Expert+PrestaShop;Expert+WordPress;Optimisation+SEO;Freelance+France" />
+</p>
 
 Je suis un artisan du web en quête perpétuelle de solutions pour embellir notre monde numérique. Ma curiosité insatiable me pousse à explorer sans cesse de nouveaux horizons, repoussant les limites de mes connaissances. Animé par la passion de partager mes trouvailles, je m'efforce de dispenser mes compétences avec une totale transparence. Rien ne m'apporte plus de satisfaction que de voir ceux que j'ai soutenus triompher. 🚀💡
 
