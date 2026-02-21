@@ -176,6 +176,7 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 
 [![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
 
+![Alt](https://repobeats.axiom.co/api/embed/5968bbe64cd92a3e14e9d5200fcc96a5cf9c0fbf.svg "Repobeats analytics image")
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
