@@ -200,7 +200,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
 
-Entreprise: [![Basé en France – Freelance](https://img.shields.io/badge/Basé_en_France-Freelance-blue?style=flat-square)](https://github.com/xXx-France)
+[![Entreprise basée en France](https://img.shields.io/badge/Entreprise_basée_en_France-Freelance-blue?style=flat-square)](https://github.com/xXx-France)
 
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
