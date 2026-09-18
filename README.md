@@ -183,7 +183,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 [![Tiri wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://wakatime.com/@Tiri)
 
-![Alt](https://repobeats.axiom.co/api/embed/5968bbe64cd92a3e14e9d5200fcc96a5cf9c0fbf.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/4af4b9c0501826ae618316e9b4a1db0114ce92a2.svg "Repobeats analytics image")
 
 ---
 
