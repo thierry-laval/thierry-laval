@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # [![thierry-laval](https://github.com/thierry-laval/thierry-laval/blob/master/images/banniere.jpg?raw=true)](https://thierrylaval.dev)
 
 <!--## Salut à tous 👋 -->
@@ -189,7 +191,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thierry-laval&theme=github-green-purple&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thierry-laval&theme=github-green-purple&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://streak-stats.demolab.com)
 
 ### Développement par
 
@@ -216,4 +218,4 @@ Si mon travail vous inspire, n’hésitez pas à me soutenir ! 🚀✨
 
 ![Profile Hit Counter](https://hit.yhype.me/github/profile?user_id=46448224)
 
-**[⬆ Retour en haut](#)**
+**[⬆ Retour en haut](#top)**
