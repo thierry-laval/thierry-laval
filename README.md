@@ -175,6 +175,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 <a href="https://thierrylaval.dev"><img alt="Portfolio professionnel" height="24" src="https://img.shields.io/badge/Tiri-PRO-red"/></a>&nbsp;&nbsp;
 
 <a href="https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR"><img alt="Faire un don avec PayPal" height="24" src="https://img.shields.io/badge/Payez--moi-un%20caf%C3%A9-white"/></a>&nbsp;&nbsp;
+<a href="https://revolut.me/lavalthierry"><img alt="Faire un don avec Revolut" height="24" src="https://img.shields.io/badge/Revolut-Donate-191C1F?logo=revolut&logoColor=white"/></a>&nbsp;&nbsp;
 
 <a href="https://github.com/thierry-laval">
   <img alt="Langages les plus utilisés sur GitHub" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thierry-laval&layout=compact&locale=fr&theme=merko&include_all_commits=true&langs_count=8" />
@@ -202,7 +203,7 @@ Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR) [![Revolut](https://img.shields.io/badge/Revolut-Donate-191C1F?logo=revolut&logoColor=white&style=for-the-badge)](https://revolut.me/lavalthierry)
 
 :heart:&nbsp;&nbsp;Ce serait vraiment sympa 😃
 
