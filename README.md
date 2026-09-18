@@ -180,7 +180,9 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thierry-laval&show_icons=true&locale=fr&theme=merko&include_all_commits=true&hide=issues" />
 </a>
 
-[![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
+<!-- [![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval) -->
+
+[![Tiri wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://wakatime.com/@Tiri)
 
 ![Alt](https://repobeats.axiom.co/api/embed/5968bbe64cd92a3e14e9d5200fcc96a5cf9c0fbf.svg "Repobeats analytics image")
 
