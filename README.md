@@ -187,15 +187,9 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=thierry-laval&theme=github-green-purple&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=thierry-laval&theme=github-compact&hide_border=true)](https://github.com/thierry-laval)
-
-### 🏆 Trophées GitHub
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thierry-laval&theme=onedark&no-bg=true&no-frame=true&column=-1)](#)
 
 ### Développement par
 
