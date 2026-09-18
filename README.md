@@ -218,4 +218,4 @@ Si mon travail vous inspire, n’hésitez pas à me soutenir ! 🚀✨
 
 ![Profile Hit Counter](https://hit.yhype.me/github/profile?user_id=46448224)
 
-**[⬆ Retour en haut](#top)**
+[![Retour en haut](https://img.shields.io/badge/%E2%86%91%20Retour%20en%20haut-4F46E5?style=for-the-badge&logoColor=white)](#top)
