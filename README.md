@@ -31,7 +31,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 ### Vous pouvez me faire une petite donation
 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR) 
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR) [![Revolut](https://img.shields.io/badge/Revolut-Donate-191C1F?logo=revolut&logoColor=white&style=for-the-badge)](https://revolut.me/lavalthierry)
 
 <p>
   <strong>Apprentissage :</strong>
