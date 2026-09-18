@@ -6,24 +6,30 @@
 ## Salut à tous<img src="images/wave.gif" width="50px">
 
 <p align ="right">
-<a target="_blank" href="https://stackoverflow.com/users/13674076/thierry-laval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://gitlab.com/thierry-laval"><img alt="gitlab" img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://www.linkedin.com/in/thierry-laval"><img alt="linkedin" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linked-in-alt.svg?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://twitter.com/thierry_laval"><img alt="twitter" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a target="blank" href="https://stackoverflow.com/story/thierrylaval"><img alt="stackoverflow" img height="35" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"></a>&nbsp;&nbsp;
+<a target="blank" href="https://gitlab.com/thierry-laval"><img alt="gitlab" img height="24" src="https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png"></a>&nbsp;&nbsp;
+<a target="blank" href="https://www.linkedin.com/in/thierry-laval"><img alt="linkedin" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/linked-in-alt.svg?raw=true"></a>&nbsp;&nbsp;
+<a target="blank" href="https://twitter.com/thierry_laval"><img alt="twitter" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a target="blank" href="mailto:contact@thierrylaval.dev"><img alt="email" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/applemail.png?raw=true"></a>&nbsp;&nbsp;
+<a target="blank" href="https://www.facebook.com/thierrylaval"><img alt="facebook" img height="24" src="https://github.com/thierry-laval/thierry-laval/blob/master/images/facebook.png?raw=true"></a>&nbsp;&nbsp;
 
-### Développeur web
+[![Freelancer](https://img.shields.io/badge/Freelance-Développeur%20Web-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://thierrylaval.dev) [![Disponibilité](https://img.shields.io/badge/Disponible-pour%20missions-brightgreen?style=for-the-badge)](https://thierrylaval.dev) 
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=false&vCenter=false&width=500&lines=Développeur+Web;Expert+PrestaShop;Expert+WordPress;Optimisation+SEO;Freelance+France" />
+</p>
 
 Je suis un artisan du web en quête perpétuelle de solutions pour embellir notre monde numérique. Ma curiosité insatiable me pousse à explorer sans cesse de nouveaux horizons, repoussant les limites de mes connaissances. Animé par la passion de partager mes trouvailles, je m'efforce de dispenser mes compétences avec une totale transparence. Rien ne m'apporte plus de satisfaction que de voir ceux que j'ai soutenus triompher. 🚀💡
 
 ⚡ Fun fact : **Je suis vraiment sympa !**
 
-:heavy_check_mark: 🇫🇷 <a href="https://thierrylaval.dev/" target="blank">Mon site web professionnel</a><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-thierrylaval-4F46E5?style=for-the-badge&logo=link&logoColor=white)](https://thierrylaval.dev) 🇫🇷
 
 Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à me contacter [@thierry_laval](https://twitter.com/thierry_laval/) ou à m'envoyer un peu de&nbsp;&nbsp;♥ ♥ ♥&nbsp;&nbsp;sur&nbsp;&nbsp;[Ma boite mail 📫](mailto:contact@thierrylaval.dev).
 
-Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR)
+### Vous pouvez me faire une petite donation
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=for-the-badge)](https://www.paypal.com/paypalme/thierrylaval01?country.x=FR&locale.x=fr_FR) 
 
 <p>
   <strong>Apprentissage :</strong>
@@ -120,8 +126,8 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 
 #### 🎨 Design
 
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white)](#)
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-4285F4?logo=adobe%20illustrator&logoColor=white)](#)
+[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)](#)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)](#)
 
 #### 📦 Gestionnaires de paquets
 
@@ -176,10 +182,15 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 
 [![Tiri wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tiri&layout=compact&theme=merko)](https://github.com/thierry-laval/thierry-laval)
 
+![Alt](https://repobeats.axiom.co/api/embed/5968bbe64cd92a3e14e9d5200fcc96a5cf9c0fbf.svg "Repobeats analytics image")
+
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thierry-laval&repo=github-readme-stats&theme=merko&locale=fr)](https://github.com/thierry-laval/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=thierry-laval&theme=github-green-purple&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=thierry-laval&theme=github-compact&hide_border=true)](https://github.com/thierry-laval)
 
 ### 🏆 Trophées GitHub
 
@@ -189,7 +200,7 @@ Vous pouvez me faire une petite donation sur&nbsp;&nbsp;[![PayPal](https://img.s
 
 Développeur/Auteur: [Thierry Laval](https://github.com/thierry-laval)
 
-Entreprise: [Freelance France](https://github.com/xXx-France)
+[![Entreprise basée en France](https://img.shields.io/badge/Entreprise_basée_en_France-Freelance-blue?style=flat-square)](https://github.com/xXx-France)
 
 Pour continuer à travailler le moins cher possible en aidant le maximum de gens,
 vous pouvez me payer un café&nbsp;&nbsp;☕️&nbsp;&nbsp; via
